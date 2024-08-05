@@ -1,6 +1,6 @@
 # Express User Authentication App
 
-![Application Screenshot](./images/screenshot.png)
+![Application Screenshot](login.PNG)
 
 This is a simple Express.js application that implements user authentication using MongoDB and bcrypt. It includes routes for user signup, login, and a dashboard. The application also uses cookies for session management.
 
