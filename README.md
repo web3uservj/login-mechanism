@@ -14,14 +14,13 @@ This is a simple Express.js application that implements user authentication usin
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git
-    cd your-repo-name
+    https://github.com/web3uservj/login-mechanism.git
     ```
 
 2. **Install dependencies:**
 
     ```bash
-    npm install
+    npm install express body-parser mongoose bcryptjs cookie-parser
     ```
 
 3. **Set up your MongoDB connection:**
